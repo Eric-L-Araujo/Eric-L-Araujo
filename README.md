@@ -11,7 +11,7 @@
 <div style="display: inline-block; margin-left:"50px;">
     
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric-l-araujo&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-l-araujo&layout=compact&theme=tokyonight&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-l-araujo&layout=compact&theme=tokyonight&hide=hack)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ## Tecnologias aprendidas
@@ -41,7 +41,7 @@
 
 ## Referência
 
-- [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats/tree/master)
+- [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md)
 
 
                    
