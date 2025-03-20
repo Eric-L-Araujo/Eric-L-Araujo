@@ -1,4 +1,4 @@
-## Hey! Sou o Eric Araujo 👋
+## Olá ☝🤓
 
 - 🔭 Estou desenvolvendo projetos acadêmicos em Back-End ...
 - 🌱 Estudando PHP e MySQL com servidor Apache ...
@@ -6,9 +6,10 @@
 - 📫 How to reach me: ericaraujo77@hotmail.com ...
 - 😄 Pronouns: Ele/dele ...
 
-<div style="display: inline-block; margin-left:"50px;">
+<div style="display: inline-block;">
     
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric-l-araujo&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+    &nbsp;&nbsp;
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-l-araujo&layout=compact&theme=tokyonight&hide=hack)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
