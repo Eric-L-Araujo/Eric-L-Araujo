@@ -24,14 +24,9 @@
 </div>
  <div>
    
-     </div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=eric-l-araujo&count_private=true&theme=tokyonight&show_icons=true"/>
-    </a>
-    <a href="https://github.com/anuraghazra/convoychat">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-    </a
 <a href="mailto: ericaraujo@souunisuam.com.br" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail--red?style=for-the-badge&logo=gmail&label=gmail&labelColor=%23ffffff&color=%23ffffff" target="_blank">
+</a>
+<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/eri.lui-discord-%23313338?style=for-the-badge&logo=discord&logoColor=%23ffffff&labelColor=%23313338">
 </a>
 <a>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)</a>
