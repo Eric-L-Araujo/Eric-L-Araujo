@@ -23,14 +23,12 @@
                     
 </div>
  <div>
-   
-<a href="mailto: ericaraujo@souunisuam.com.br" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail--red?style=for-the-badge&logo=gmail&label=gmail&labelColor=%23ffffff&color=%23ffffff" target="_blank">
-</a>
-<a href=""><img alt="Static Badge" src="https://img.shields.io/badge/eri.lui-discord-%23313338?style=for-the-badge&logo=discord&logoColor=%23ffffff&labelColor=%23313338">
-</a>
-<a>
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)</a>
-    [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+     
+[![Instagram](https://img.shields.io/badge/Instagram-%23F44336?style=for-the-badge&logo=instagram&logoColor=%23ffffff)](https://www.instagram.com/eric.araujo03)
+[![Gmail](https://img.shields.io/badge/Gmail--red?style=for-the-badge&logo=gmail&label=gmail&labelColor=%23ffffff&color=%23ffffff)](mailto:ericaraujo@souunisuam.com.br)
+[![Discord](https://img.shields.io/badge/eri.lui-discord-%23313338?style=for-the-badge&logo=discord&logoColor=%23ffffff&labelColor=%23313338)](https://discord.com/users/eri.lui)
+
+
    
                    
           
