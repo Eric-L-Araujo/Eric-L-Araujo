@@ -28,8 +28,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail--red?style=for-the-badge&logo=gmail&label=gmail&labelColor=%23ffffff&color=%23ffffff)](mailto:ericaraujo@souunisuam.com.br)
 [![Discord](https://img.shields.io/badge/eri.lui-discord-%23313338?style=for-the-badge&logo=discord&logoColor=%23ffffff&labelColor=%23313338)](https://discord.com/users/eri.lui)
 
+## Referência
 
-   
+- [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats/tree/master)
+
+
                    
           
 
