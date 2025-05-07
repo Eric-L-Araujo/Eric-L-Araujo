@@ -1,3 +1,15 @@
+
+
+
+
+
+  ![Status](./profile-3d-contrib/profile-night-view.svg)
+
+
+
+
+
+
 ## Olá ☝🤓
 
 - 🔭 Estou desenvolvendo projetos acadêmicos em Back-End ...
@@ -5,8 +17,9 @@
 - 👯 Aberto à colaboração em projetos Front-End ...
 - 📫 Contato: ericaraujo77@hotmail.com ...
 - 😄 Pronomes: Ele/dele ...
-  
-![Status](./profile-3d-contrib/profile-night-view.svg)
+
+
+
 
 <div style="display: inline-block;">
     
