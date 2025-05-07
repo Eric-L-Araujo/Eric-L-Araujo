@@ -3,18 +3,14 @@
 
 
 
-  ![Status](./profile-3d-contrib/profile-night-view.svg)
+  ![Status](./profile-3d-contrib/profile-night-green.svg)
 
 
-
-
-
-
-## Olá ☝🤓
+## Olá, me chamo Eric Araujo ☝🤓
 
 - 🔭 Estou desenvolvendo projetos acadêmicos em Back-End ...
 - 🌱 Estudando PHP e MySQL com servidor Apache ...
-- 👯 Aberto à colaboração em projetos Front-End ...
+- 👯 Aberto à colaborações em projetos Front-End ...
 - 📫 Contato: ericaraujo77@hotmail.com ...
 - 😄 Pronomes: Ele/dele ...
 
@@ -40,7 +36,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="30" height="30" />
     &nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" />
-                    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+                      
 </div>
      
 ## Redes Sociais
