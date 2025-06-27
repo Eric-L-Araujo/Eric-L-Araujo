@@ -1,64 +1,98 @@
 
+# 🔹 Saudações!
 
+Você pode me chamar de Eric Araujo, moro no Rio de janeiro e sou estudante de análise e desenvolvimento de sistemas na UNISUAM e um grande admirador de tecnologias porque eu acredito que ela possa transformar o meio social em que vivemos. 
 
+Venho desenvolvendo projetos Front-End e Back-End aplicados à websites, mas estou sempre em busca de expandir para explorar novas áreas da tecnologia, visto que ainda não passei por boa parte - ainda.
 
+## 🔵 Minhas habilidades
 
+### 🔷 Linguagens de marcação
 
-## Olá, me chamo Eric Araujo ☝🤓
+<div style="display: inline-flex; gap: 5px;">
 
-- 🔭 Estou desenvolvendo projetos acadêmicos em Back-End ...
-- 🌱 Estudando PHP e MySQL com servidor Apache ...
-- 👯 Aberto à colaborações em projetos Front-End ...
-- 📫 Contato: ericaraujo77@hotmail.com ...
-- 😄 Pronomes: Ele/dele ...
+![Markdown](https://img.shields.io/badge/Markdown-1877F2?style=for-the-badge&logo=markdown)
 
+![HTML5](https://img.shields.io/badge/HTML5-1877F2?style=for-the-badge&logo=html5&logoColor=white)
 
-
-
-<div style="display: inline-block;">
-    
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric-l-araujo&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-    &nbsp;&nbsp;
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-l-araujo&layout=compact&theme=tokyonight&hide=hack)](https://github.com/anuraghazra/github-readme-stats)
+![CSS3](https://img.shields.io/badge/CSS3-1877F2?style=for-the-badge&logo=css3&logoColor=white)
 </div>
 
-## Tecnologias em constante aprendizado
+### 🔷 Linguagens de programação
 
-<div style="display: inline-flex;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" height="30" />
-    &nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" height="30" />
-    &nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30" />
-    &nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="30" height="30" />
-    &nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="30" height="30" />
-                      
+<div style="display: inline-flex; gap: 5px;">
+
+![PHP](https://img.shields.io/badge/PHP-1877F2?style=for-the-badge&logo=php&logoColor=white)
+
+![Python](https://img.shields.io/badge/python-1877F2?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-1877F2?style=for-the-badge&logo=javascript&logoColor=black)
 </div>
-     
-## Redes Sociais
 
-<div style="display:inline-block;">    
-    
-[![Instagram](https://img.shields.io/badge/Instagram-%23F44336?style=for-the-badge&logo=instagram&logoColor=%23ffffff)](https://www.instagram.com/eric.araujo03)
-[![Gmail](https://img.shields.io/badge/Gmail--red?style=for-the-badge&logo=gmail&label=gmail&labelColor=%23ffffff&color=%23ffffff)](mailto:ericaraujo@souunisuam.com.br)
-[![Discord](https://img.shields.io/badge/eri.lui-discord-%23313338?style=for-the-badge&logo=discord&logoColor=%23ffffff&labelColor=%23313338)](https://discord.com/users/eri.lui)
-</div> 
+### 🔷 Bibliotecas e frameworks
 
-## Referência
+![Bootstrap](https://img.shields.io/badge/-boostrap-1877F2?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 
-- [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md)
+### 🔷 Banco de dados
+
+![MySQL](https://img.shields.io/badge/MySQL-1877F2?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔷 Sistemas operacionais
+
+
+![Windows](https://img.shields.io/badge/Windows-1877F2?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+![Linux](https://img.shields.io/badge/Linux-1877F2?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Mint](https://img.shields.io/badge/Linux%20Mint-1877F2?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+
+![Android](https://img.shields.io/badge/Android-1877F2?style=for-the-badge&logo=android&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-1877F2?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
+
+
+### 🔷 Ferramentas
+<div style="display: inline-flex; gap: 5px;">
+
+![Git](https://img.shields.io/badge/GIT-1877F2?style=for-the-badge&logo=git&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/GitHub-1877F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eric-L-Araujo)
+
+![Vscode](https://img.shields.io/badge/Vscode-1877F2?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</div>
 
 
 #
+## 🔵 Conecte-se comigo
 
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eric-L-Araujo/Eric-L-Araujo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eric-L-Araujo/Eric-L-Araujo/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Eric-L-Araujo/Eric-L-Araujo/output/github-contribution-grid-snake.svg">
-</picture>            
-          
+<div style="display: inline-flex; gap: 5px;">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1877F2?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/eric-araujox/)
+    
+[![Discord](https://img.shields.io/badge/Discord-1877F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@eri.lui/)
+    
+ [![Instagram](https://img.shields.io/badge/-Instagram-%231877F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eric.araujo03/?igsh=N2Z6NGgzcXlnemxi#)
+    
+[![GitHub](https://img.shields.io/badge/GitHub-1877F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eric-L-Araujo)
+</div>
+
+
+## 🔵 Github Stats
+<div style="display: inline-flex; gap: 5px;">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eric-L-Araujo&theme=algolia&show_icons=true&icon_color=30A3DC&title_color=4B9CD3&text_color=FFF&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-L-Araujo&layout=compact&theme=algolia)
+</div>
+
+## 🔵 Contribuições
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Eric-L-Araujo&repo=ecoPoint&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=1877F2&text_color=FFF)](https://github.com/alessandrasilvap/ecoPoint)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Eric-L-Araujo&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=1877F2&text_color=FFF)](https://github.com/digitalinnovationone/dio-lab-open-source)
+
+## 🔵 Fontes
+
+<a href="https://github.com/badges/shields">Shields.io</a>
+
+GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats"> @anuraghazra</a>
+
+GitHub Streak Stats by <a href="https://github.com/denvercoder1/github-readme-streak-stats">@DenverCoder1</a>
