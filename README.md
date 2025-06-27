@@ -12,9 +12,7 @@ Venho desenvolvendo projetos Front-End e Back-End aplicados à websites, mas est
 <div style="display: inline-flex; gap: 5px;">
 
 ![Markdown](https://img.shields.io/badge/Markdown-1877F2?style=for-the-badge&logo=markdown)
-
 ![HTML5](https://img.shields.io/badge/HTML5-1877F2?style=for-the-badge&logo=html5&logoColor=white)
-
 ![CSS3](https://img.shields.io/badge/CSS3-1877F2?style=for-the-badge&logo=css3&logoColor=white)
 </div>
 
@@ -23,9 +21,7 @@ Venho desenvolvendo projetos Front-End e Back-End aplicados à websites, mas est
 <div style="display: inline-flex; gap: 5px;">
 
 ![PHP](https://img.shields.io/badge/PHP-1877F2?style=for-the-badge&logo=php&logoColor=white)
-
 ![Python](https://img.shields.io/badge/python-1877F2?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-1877F2?style=for-the-badge&logo=javascript&logoColor=black)
 </div>
 
@@ -52,25 +48,18 @@ Venho desenvolvendo projetos Front-End e Back-End aplicados à websites, mas est
 <div style="display: inline-flex; gap: 5px;">
 
 ![Git](https://img.shields.io/badge/GIT-1877F2?style=for-the-badge&logo=git&logoColor=white)
-
 [![GitHub](https://img.shields.io/badge/GitHub-1877F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eric-L-Araujo)
-
 ![Vscode](https://img.shields.io/badge/Vscode-1877F2?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </div>
 
 
 #
 ## 🔵 Conecte-se comigo
-
-
 <div style="display: inline-flex; gap: 5px;">
-
+    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1877F2?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/eric-araujox/)
-    
 [![Discord](https://img.shields.io/badge/Discord-1877F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@eri.lui/)
-    
- [![Instagram](https://img.shields.io/badge/-Instagram-%231877F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eric.araujo03/?igsh=N2Z6NGgzcXlnemxi#)
-    
+[![Instagram](https://img.shields.io/badge/-Instagram-%231877F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eric.araujo03/?igsh=N2Z6NGgzcXlnemxi#)
 [![GitHub](https://img.shields.io/badge/GitHub-1877F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eric-L-Araujo)
 </div>
 
@@ -79,14 +68,12 @@ Venho desenvolvendo projetos Front-End e Back-End aplicados à websites, mas est
 <div style="display: inline-flex; gap: 5px;">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eric-L-Araujo&theme=algolia&show_icons=true&icon_color=30A3DC&title_color=4B9CD3&text_color=FFF&hide_title=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-L-Araujo&layout=compact&theme=algolia)
 </div>
 
 ## 🔵 Contribuições
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Eric-L-Araujo&repo=ecoPoint&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=1877F2&text_color=FFF)](https://github.com/alessandrasilvap/ecoPoint)
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Eric-L-Araujo&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=1877F2&text_color=FFF)](https://github.com/digitalinnovationone/dio-lab-open-source)
 
 ## 🔵 Fontes
