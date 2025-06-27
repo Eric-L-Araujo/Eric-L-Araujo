@@ -1,5 +1,5 @@
 
-# 🔹 Saudações!
+# 🔹 Sejam bem-vindos!
 
 Você pode me chamar de Eric Araujo, moro no Rio de janeiro e sou estudante de análise e desenvolvimento de sistemas na UNISUAM e um grande admirador de tecnologias porque eu acredito que ela possa transformar o meio social em que vivemos. 
 
