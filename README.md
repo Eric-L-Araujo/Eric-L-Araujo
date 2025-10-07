@@ -3,7 +3,7 @@
 
 Você pode me chamar de Eric Araujo, moro no Rio de janeiro e sou estudante de análise e desenvolvimento de sistemas na UNISUAM e um grande admirador de tecnologias porque eu acredito que ela possa transformar o meio social em que vivemos. 
 
-Venho desenvolvendo projetos Front-End e Back-End aplicados à websites, mas estou sempre em busca de expandir para explorar novas áreas da tecnologia, visto que ainda não passei por boa parte - ainda.
+Tenho desenvolvidos projetos Front-End e Mobile, mas estou sempre em busca de expandir para explorar novas áreas da tecnologia, visto que ainda não passei por boa parte - ainda.
 
 ## 🔵 Minhas habilidades
 
