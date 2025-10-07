@@ -9,7 +9,7 @@ Tenho desenvolvidos projetos Front-End e Mobile, mas estou sempre em busca de ex
 
 ## 🔵 Minhas habilidades
 
-### 🔷 Linguagens de marcação
+### 🔷 Linguagens de marcação de texto
 
 <div style="display: inline-flex; gap: 5px;">
 
