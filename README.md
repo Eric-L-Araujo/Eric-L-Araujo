@@ -28,8 +28,7 @@ Tenho desenvolvidos projetos Front-End e Mobile, mas estou sempre em busca de ex
 ### 🔷 Bibliotecas e frameworks
 
 ![Bootstrap](https://img.shields.io/badge/-boostrap-1877F2?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
-
+![React Native](https://img.shields.io/badge/-React%20native-000?&logo=React)
 
 ### 🔷 Banco de dados
 
