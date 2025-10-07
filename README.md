@@ -5,6 +5,8 @@ Você pode me chamar de Eric Araujo, moro no Rio de janeiro e sou estudante de a
 
 Tenho desenvolvidos projetos Front-End e Mobile, mas estou sempre em busca de expandir para explorar novas áreas da tecnologia, visto que ainda não passei por boa parte - ainda.
 
+“Building the future, one line of code at a time.”
+
 ## 🔵 Minhas habilidades
 
 ### 🔷 Linguagens de marcação
