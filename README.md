@@ -1,7 +1,7 @@
 
 # 🔹 Sejam bem-vindos!
 
-Você pode me chamar de Eric Araujo, moro no Rio de janeiro e sou estudante de análise e desenvolvimento de sistemas na UNISUAM e um grande admirador de tecnologias porque eu acredito que ela possa transformar o meio social em que vivemos. 
+Me chamo Eric Araujo, moro no Rio de janeiro e sou estudante de análise e desenvolvimento de sistemas na UNISUAM e um grande admirador de tecnologias porque eu acredito que ela possa transformar o meio social em que vivemos. 
 
 Tenho desenvolvidos projetos Front-End e Mobile, mas estou sempre em busca de expandir para explorar novas áreas da tecnologia, visto que ainda não passei por boa parte - ainda.
 
